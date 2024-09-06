@@ -6,14 +6,14 @@ This project involves cleaning and preprocessing the [Airbnb NYC dataset]([link-
 
 ## Dataset
 
-- **Original Dataset:** [`Airbnb_NYC.csv`](Airbnb_NYC.csv)
-- **Cleaned Dataset:** [`cleaned_airbnb_nyc.csv`](cleaned_airbnb_nyc.csv)
+- **Original Dataset:** [`Airbnb_NYC.csv`](https://github.com/fayzankj/airbnb-nyc-data-cleaning/blob/main/Airbnb_NYC.csv)
+- **Cleaned Dataset:** [`cleaned_airbnb_nyc.csv`](https://github.com/fayzankj/airbnb-nyc-data-cleaning/blob/main/cleaned_airbnb_nyc.csv)
 
 ## Jupyter Notebook
 
 The data cleaning process is thoroughly documented in the Jupyter Notebook:
 
-- [`Data_Cleaning_Notebook.ipynb`](Data_Cleaning_Notebook.ipynb)
+- [`Data_Cleaning_Notebook.ipynb`](https://github.com/fayzankj/airbnb-nyc-data-cleaning/blob/main/Data_Cleaning_Notebook.ipynb)
 
 ## Project Steps
 
